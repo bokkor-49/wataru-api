@@ -1,6 +1,6 @@
 {
-  "name": "Wataru's Api",
-  "version": "Wataru UI",
+  "name": "Bokkor 49",
+  "version": "",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
@@ -19,11 +19,11 @@
   "links": [
     {
       "name": "Source Code",
-      "url": "https://github.com/ajirodesu/wataru-api"
+      "url": "https://github.com/bokkor-49/wataru-api/"
     },
     {
       "name": "Contact Me",
-      "url": "https://t.me/ajirodesu"
+      "url": "https://facebook.com/ewr.bokkor"
     }
   ],
   "notifications": [
