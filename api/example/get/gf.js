@@ -5,7 +5,7 @@ const meta = {
   author: "Bokkor 49", 
   method: "get",
   category: "funny",
-  path: "/gf"
+  path: "https://gf-bokkor.onrender.com/gf"
 };
 
 async function onStart({ res, req }) {
