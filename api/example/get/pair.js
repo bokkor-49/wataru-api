@@ -1,11 +1,11 @@
 const meta = {
-  name: "gf",
+  name: "pair",
   version: "1.0.0",
   description: "A simple example API that demonstrates basic functionality",
   author: "Bokkor 49", 
   method: "get",
-  category: "funny",
-  path: "/gf"
+  category: "love",
+  path: "/pair?"
 };
 
 async function onStart({ res, req }) {
