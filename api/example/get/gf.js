@@ -1,11 +1,11 @@
 const meta = {
-  name: "example",
+  name: "gf",
   version: "1.0.0",
   description: "A simple example API that demonstrates basic functionality",
-  author: "Your Name", 
+  author: "Bokkor 49", 
   method: "get",
-  category: "example",
-  path: "/example?text="
+  category: "funny",
+  path: "/gf"
 };
 
 async function onStart({ res, req }) {
@@ -28,7 +28,7 @@ async function onStart({ res, req }) {
     reversed: reversed,
     length: text.length,
     timestamp: new Date().toISOString(),
-    powered_by: "Wataru API"
+    powered_by: "Bokkor 49"
   });
 }
 
